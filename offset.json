@@ -1,1 +1,53 @@
-blah blah blah
+{
+    "Players": {
+        "Character": "0x2E8",
+        "LocalPlayer": "0x128",
+        "Health": "0x19C",
+        "WalkSpeed": "0x1D8",
+        "WalkSpeedCheck": "0x3B0"
+    },
+    "Instance": {
+        "Parent": "0x50",
+        "Children": "0x80",
+        "Children_End": "0x8",
+        "Name": "0x78",
+        "NameLength": "0x10",
+        "ClassDescriptor": "0x18",
+        "ClassName": "0x8"
+    },
+    "Part": {
+        "Material": "0x2F0",
+        "Position": "0x140",
+        "Rotation": "0x124",
+        "Velocity": "0x14C",
+        "Primitive": "0x170"
+    },
+    "Camera": {
+        "Workspace_to_Camera": "0x3F8",
+        "Fov": "0x168",
+        "Position": "0x124",
+        "CameraRotation": "0x100",
+        "CameraSubject": "0xE8"
+    },
+    "Render": {
+        "RenderView_offset1": "0x1B8",
+        "RenderView_offset2": "0x8",
+        "RenderView_offset3": "0x28",
+        "VisualEngine": "0x10",
+        "ViewMatrix": "0x4D0",
+        "ClientDimensions": "0x740"
+    },
+    "Script": {
+        "JobStart": "0x1C8",
+        "JobEnd": "0x1D0",
+        "JobName": "0x90",
+        "ScriptContext": "0x1F8",
+        "RenderJob_to_FakeDataModel": "0xB0"
+    },
+    "Datamodel": {
+        "Datamodel_Deleter": "0x6257EB0",
+        "Deleter_to_Fake": "0x8",
+        "Fake_to_RealDatamodel": "0x1b0",
+        "Datamodel_to_Workspace": "0x160"
+    }
+}
