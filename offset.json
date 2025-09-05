@@ -1,6 +1,6 @@
 {
     "Players": {
-        "Character": "0x328",
+        "Character": "0x338",
         "LocalPlayer": "0x128",
         "Health": "0x19C",
         "WalkSpeed": "0x1DC",
@@ -30,7 +30,7 @@
         "CameraSubject": "0xF0"
     },
     "Render": {
-        "VisualEngine": "0x6D931C0",
+        "VisualEngine": "0x6DEC860",
         "ViewMatrix": "0x4B0",
         "ClientDimensions": "0x720"
     },
@@ -43,7 +43,7 @@
     },
     "Datamodel": {
         "PlaceID": "0x1A0",
-        "Datamodel_Deleter": "0x703A750",
+        "Datamodel_Deleter": "0x7097010",
         "Deleter_to_Fake": "0x8",
         "Fake_to_RealDatamodel": "0x1B8",
         "Datamodel_to_Workspace": "0x180"
