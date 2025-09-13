@@ -31,7 +31,7 @@
         "CameraSubject": "0xF0"
     },
     "Render": {
-        "VisualEngine": "0x6DEC860",
+        "VisualEngine": "0x6E10210",
         "ViewMatrix": "0x4B0",
         "ClientDimensions": "0x720"
     },
@@ -44,7 +44,7 @@
     },
     "Datamodel": {
         "PlaceID": "0x1A0",
-        "Datamodel_Deleter": "0x7097010",
+        "Datamodel_Deleter": "0x70B1EF0",
         "Deleter_to_Fake": "0x8",
         "Fake_to_RealDatamodel": "0x1B8",
         "Datamodel_to_Workspace": "0x180"
