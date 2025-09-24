@@ -19,7 +19,7 @@
     "Part": {
         "Material": "0x2F0",
         "Position": "0x154",
-        "Rotation": "0x130",
+        "Rotation": "0x138",
         "Velocity": "0x160",
         "Primitive": "0x178"
     },
@@ -31,22 +31,22 @@
         "CameraSubject": "0xF0"
     },
     "Render": {
-        "VisualEngine": "0x6E10210",
+        "VisualEngine": "0x10",
         "ViewMatrix": "0x4B0",
         "ClientDimensions": "0x720"
     },
     "Script": {
-        "JobStart": "0x1C8",
-        "JobEnd": "0x1D0",
-        "JobName": "0x90",
-        "ScriptContext": "0x1F8",
-        "RenderJob_to_FakeDataModel": "0xB0"
+        "JobStart": "0x1D0",
+        "JobEnd": "0x1D8",
+        "JobName": "0x18",
+        "ScriptContext": "0x3D0",
+        "RenderJob_to_FakeDataModel": "0x38"
     },
     "Datamodel": {
         "PlaceID": "0x1A0",
-        "Datamodel_Deleter": "0x70B1EF0",
-        "Deleter_to_Fake": "0x8",
-        "Fake_to_RealDatamodel": "0x1B8",
+        "Datamodel_Deleter": "0x70A86C0",
+        "Deleter_to_Fake": "0x10",
+        "Fake_to_RealDatamodel": "0x1C0",
         "Datamodel_to_Workspace": "0x180"
     }
 }
